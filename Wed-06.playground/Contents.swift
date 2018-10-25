@@ -3,7 +3,7 @@
 // Created on: 17-Oct-2018
 // Created by: Wendi Yu
 // Created for: ICS3U
-// This program is a SpriteKit template move to the next scene with sound
+// This program is a SpriteKit template using button move to the right and left
 
 // this will be commented out when code moved to Xcode
 import PlaygroundSupport
